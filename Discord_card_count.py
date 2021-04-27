@@ -7,6 +7,8 @@ import threading
 import datetime
 import time
 
+#Created by Nut-Stack
+
 high = ['a','k','q','j','10']
 low = ['2','3','4','5','6']
 medium = ['7','8','9']
